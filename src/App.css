@@ -1,7 +1,25 @@
 .App {
   text-align: center;
+  margin-top: 200px;
+  
+}
+.Log-in{
+  border: 5px solid rgb(10, 112, 247);
+  padding: 50px;
+  position: absolute;
+  top: 180px; left: 500px;
+  
+}
+.com-button{
+  border: 1px solid rgb(109, 112, 114);
+  
 }
 
+.horizontal-line{
+  border-top: 1px solid #958ea3;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
